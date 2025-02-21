@@ -1,0 +1,27 @@
+.screen .expression, 
+.screen .answer {
+  display: flex;
+  justify-content: flex-end; /* Corrected property */
+  align-items: center; /* Vertically center the text */
+  padding-right: 30px;
+}
+
+.screen .answer{
+  font-size: 18px;
+  /* border-bottom: 1px solid #1d3849; */
+}
+
+.screen .answer h1{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.screen .expression{
+  font-size: 26px;
+  /* box-shadow: 0 0 1px #1d3849; */
+}
+
+.btns div{
+  box-shadow: 0 0 2px 1px #a2bbcf;
+}
