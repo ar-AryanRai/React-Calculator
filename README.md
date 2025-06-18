@@ -1,8 +1,48 @@
-# React + Vite
+# 🧮 React-Calculator – Simple & Responsive Calculator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**React-Calculator** is a responsive calculator built using modern React practices. It replicates the behavior of a basic handheld calculator, handling all core arithmetic operations with a clean, user-friendly interface.
 
-Currently, two official plugins are available:
+🌐 **Live Demo**: [Coming Soon or Add Link](https://simpmath.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## ✨ Features
+
+- ➕ Addition  
+- ➖ Subtraction  
+- ✖️ Multiplication  
+- ➗ Division  
+- 〽️ Modulo  
+- 🔁 Clear / Reset functionality  
+- 💡 Light, responsive design
+
+---
+
+## 🛠 Tech Stack
+
+- **React.js** – Functional components with Hooks  
+- **JSX** – UI structure  
+- **CSS3** – Custom styling  
+- **Tailwind CSS (optional)** – (If used, you can mention it)
+
+---
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/ar-AryanRai/React-Calculator.git
+cd React-Calculator
+npm install
+npm run dev
+```
+
+---
+
+## 🧠 What I Learned
+
+- Building UI with reusable React components
+- Handling state using useState
+- Managing user input and validation
+- Structuring basic calculator logic in React
