@@ -2,7 +2,7 @@
 
 **React-Calculator** is a responsive calculator built using modern React practices. It replicates the behavior of a basic handheld calculator, handling all core arithmetic operations with a clean, user-friendly interface.
 
-🌐 **Live Demo**: [Coming Soon or Add Link](https://simpmath.netlify.app/)
+🌐 **Live Demo**: [Click here](https://simpmath.netlify.app/)
 
 ---
 
