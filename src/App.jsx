@@ -41,8 +41,8 @@ const App = () => {
   }
 
   return (
-    <div className="bg-[#1D3849] flex justify-center items-center h-[100vh] max-w-[100vw] pb-6">
-      <div className="body w-[80%] lg:w-[25%] h-[70%] bg-[#142f44] rounded-2xl shadow-md shadow-[#000] text-white">
+    <div className="bg-[#1D3849] flex justify-center items-center h-[100vh] max-w-[100vw]">
+      <div className="body w-[80%] lg:w-[25%] h-[70%] bg-[#142f44] rounded-2xl shadow-md shadow-[#000] text-white pb-6">
         <div className="screen h-[30%] mb-4">
           <div className="expression h-[60%] mb-2">
             <h1>{exp}</h1>
